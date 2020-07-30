@@ -1,2 +1,2 @@
 # blockly-for-MCDR
-it is a website that is used for the plugin of MCDR to develop
+it is a website that is used to develop the plugin of MCDR
